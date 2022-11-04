@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "297815166202",
+    "project_id": "unihelp-4a275",
+    "storage_bucket": "unihelp-4a275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297815166202:android:b34ef6c7ed4873f5b60d43",
+        "android_client_info": {
+          "package_name": "com.unihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297815166202-ml73htjut9ibtigd3vt4st2ol0eo3n3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfjgyNa7okZ63c9YDm0yJn23rbQXmNco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297815166202-ml73htjut9ibtigd3vt4st2ol0eo3n3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297815166202-cv9dpr70jde8ivrfdp4lu0eevcrk3lck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unihelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
